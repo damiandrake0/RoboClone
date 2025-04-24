@@ -35,12 +35,12 @@ They are currently *under active development* and **not yet available** in the s
 
 To start the software, use the following command:
 ```
-python roboclone.py
+python roboclone_gui.py
 ```
 Alternatively, you can download a pre-compiled `.exe` version from the [Releases](https://github.com/damiandrake0/RoboClone/releases) section of the GitHub repository for immediate use.
 
 ### Requirements
-```bash
+```
 pip install pillow plyer
 ```
 
