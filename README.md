@@ -37,7 +37,7 @@ To start the software, use the following command:
 ```
 python roboclone_gui.py
 ```
-~~ Alternatively, you can download a pre-compiled `.exe` version from the [Releases](https://github.com/damiandrake0/RoboClone/releases) section of the GitHub repository for immediate use. ~~ COMING SOON :)
+~~Alternatively, you can download a pre-compiled `.exe` version from the [Releases](https://github.com/damiandrake0/RoboClone/releases) section of the GitHub repository for immediate use.~~ COMING SOON :)
 
 ### Requirements
 ```
